@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B10424?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Hands-On Continuous Integration and Delivery
 
 <a href="https://www.packtpub.com/virtualization-and-cloud/hands-continuous-integration-and-delivery?utm_source=github&utm_medium=repository&utm_campaign=9781789130485"><img src="https://www.packtpub.com/sites/default/files/B10424.png" alt="Hands-On Continuous Integration and Delivery" height="256px" align="right"></a>
